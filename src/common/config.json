@@ -1,0 +1,11 @@
+{
+  "local_storage": {
+    "token": "MAN-Social-Token",
+    "_ID": "UID"
+  },
+  "type_img": {
+    "avatar": "avatar",
+    "background": "background",
+    "timeline": "timeline"
+  }
+}
